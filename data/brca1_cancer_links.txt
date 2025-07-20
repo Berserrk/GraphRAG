@@ -1,0 +1,19 @@
+BRCA1 is a tumor suppressor gene that plays a critical role in the repair of DNA double-strand breaks through homologous recombination repair. Mutations in BRCA1 impair this process, leading to genomic instability.
+
+Breast cancer is often associated with inherited mutations in BRCA1 and BRCA2 genes. Individuals carrying these mutations have a significantly increased risk of developing breast and ovarian cancers.
+
+PARP inhibitors, such as Olaparib, are targeted cancer therapies that exploit synthetic lethality. In BRCA1-deficient cells, inhibition of PARP leads to the accumulation of DNA damage, resulting in cell death.
+
+Homologous recombination is an error-free DNA repair pathway. It involves proteins such as BRCA1, BRCA2, and RAD51 that are essential for the proper repair of double-strand DNA breaks.
+
+Synthetic lethality occurs when two genetic deficiencies lead to cell death, while each alone is non-lethal. This concept is used in cancer therapy to selectively kill tumor cells.
+
+Olaparib is approved for treatment of advanced ovarian and breast cancers associated with BRCA1/2 mutations. It works by inhibiting the PARP enzyme involved in base excision repair.
+
+RAD51 is recruited by BRCA2 during homologous recombination repair and plays a key role in strand invasion and exchange. A disruption in BRCA2 impairs RAD51 localization and repair efficiency.
+
+Loss of BRCA function not only increases cancer risk but also creates vulnerabilities that can be exploited with specific therapies targeting DNA repair pathways.
+
+The ATM gene is another DNA damage response gene that works upstream of BRCA1. Mutations in ATM can also sensitize tumors to DNA-damaging agents.
+
+Checkpoint inhibitors are a class of immunotherapies that act by unleashing the immune system against tumors, though their efficacy in BRCA-mutated tumors is still under investigation.
